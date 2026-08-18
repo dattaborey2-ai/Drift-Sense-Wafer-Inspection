@@ -1,0 +1,6 @@
+# Drift-Sense Wafer Inspection
+# Runtime dependencies for the final DRAM localization pipeline (Step 6.9.5)
+
+numpy>=2.0,<3.0
+opencv-python>=4.10,<5.1
+pandas>=2.2,<4.0
